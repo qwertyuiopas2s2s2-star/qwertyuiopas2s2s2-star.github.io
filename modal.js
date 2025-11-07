@@ -27,7 +27,7 @@ const projects = {
   },
   project6: {
     title: '초콜릿 패키지 디자인',
-    image: 'img/portfolio/logo1.png',
+    image: 'img/portfolio/c.jpg',
     description: '모리나가 제과의 피노제품.'
   }
 };
