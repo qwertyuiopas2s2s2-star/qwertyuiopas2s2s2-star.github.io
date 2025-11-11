@@ -2,17 +2,17 @@
 const projects = {
   project1: {
     title: 'Edit Design Project 1',
-    image: 'img/portfolio/Frame 11.jpg',
-    description: '이 프로젝트는 오페라의 유령의 차분하고 화려한 무대를 생각하여 블랙과 골드를 바탕으로 디자인하게되었습니다. '
+    image: 'img/portfolio/p1.jpg',
+    description: '오페라의 유령의 차분하고 화려한 무대를 생각하여 블랙과 골드를 바탕으로 디자인하게되었습니다. '
   },
   project2: {
     title: 'Edit Design Project 2',
-    image: 'img/portfolio/Frame 14.jpg',
-    description: '더불어 함께를 강조하는 지역 복지관의 이미지를 바탕으로 명도높은 파스텔 색을 배경으로 디자인 하게되었습니다.'
+    image: 'img/portfolio/s2.jpg',
+    description: '더불어 함께를 강조하는 지역 복지관의 이미지를 바탕을 배경으로 디자인 하게되었습니다.'
   },
   project3: {
     title: '오페라글라스 디자인',
-    image: 'img/portfolio/Frame 10.png',
+    image: 'img/portfolio/p3.jpg',
     description: ' 공연을 자주보는 소비자층에게 익숙한 오페라글라스의 상세페이지 디자인입니다 .'
   },
   project4: {
@@ -23,12 +23,12 @@ const projects = {
   project5: {
     title: 'Edit Design Project 5',
     image: 'img/portfolio/logo1.png',
-    description: '모던하고 세련된 로고 디자인으로 브랜드 가치를 높였습니다.'
+    description: '학생을 타깃으로한 카드뉴스 디자인입니다. '
   },
   project6: {
     title: '초콜릿 패키지 디자인',
-    image: 'img/portfolio/c.jpg',
-    description: '모리나가 제과의 피노제품.'
+    image: 'img/portfolio/p6.jpg',
+    description: '모리나가사의 피노 패키지 디자인입니다.'
   }
 };
 
